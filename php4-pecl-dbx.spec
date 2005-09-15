@@ -7,7 +7,7 @@ Summary:	%{_modname} - database abstraction functions
 Summary(pl):	%{_modname} - funkcje abstrakcji baz danych
 Name:		php4-pecl-%{_modname}
 Version:	1.1.0
-Release:	2
+Release:	3
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{_modname}-%{version}.tgz
