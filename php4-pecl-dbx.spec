@@ -4,7 +4,7 @@
 %define		extensionsdir	%{_libdir}/php4
 
 Summary:	%{_modname} - database abstraction functions
-Summary(pl.UTF-8):   %{_modname} - funkcje abstrakcji baz danych
+Summary(pl.UTF-8):	%{_modname} - funkcje abstrakcji baz danych
 Name:		php4-pecl-%{_modname}
 Version:	1.1.0
 Release:	4
